@@ -220,4 +220,3 @@ close_receipt:
 receipt_done:
    PRINT receipt_end, receipt_end_len
    ret
-has context menu
